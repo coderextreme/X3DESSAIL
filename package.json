@@ -1,0 +1,9 @@
+{
+  "name": "X3DESSAIL",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "dependencies": {
+    "java": "*"
+  }
+}
